@@ -22,8 +22,8 @@ Each folder below contains code, notebooks, and materials for one episode.
 ---
 
 💬 **Follow along:**  
-- YouTube: [Anas Riad](https://www.youtube.com/@anasriad)  
-- LinkedIn: [linkedin.com/in/anasriad](https://linkedin.com/in/anasriad)  
+- YouTube: [Anas Riad](https://www.youtube.com/@anas_riad)  
+- LinkedIn: [linkedin.com/in/anasriad](https://www.linkedin.com/in/riadanas)  
 
 Each episode includes:
 - Clear folder structure  
